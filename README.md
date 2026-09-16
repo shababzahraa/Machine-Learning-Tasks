@@ -1,11 +1,13 @@
 # Machine-Learning-Tasks
+
 ## About
 
-This repository contains my Machine Learning lab work and assignments.
+This repository contains my Machine Learning coursework, practical work, and assignments.
 
-## Labs
+## Topics
 
-- Lab 1
-- Lab 2
-- Lab 3
-- Lab 4
+- Python and Data Analysis
+- Data Cleaning and Exploratory Data Analysis
+- Machine Learning Models
+- Model Evaluation
+- Hyperparameter Tuning
